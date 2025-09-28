@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <channel id="no-epg">
-<display-name>Seinfeld</display-name>
+<display-name>24/7</display-name>
 </channel>
 <programme start="20250928000000 +0000" stop="20280928010000 +0000" channel="no-epg">
 <title>Series</title>
