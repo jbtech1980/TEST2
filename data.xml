@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<channel id="1">
-		<display-name>Seinfeld</display-name>
+<channel id="no-epg">
+<display-name>Seinfeld</display-name>
 </channel>
-<programme start="20250925000000 +0800" stop="20280925010000 +0800" channel="1">
-		<title>Seinfeld (24/7)</title>
-		<sub-title>Episodes<sub-title>
-		<desc>24/7<desc>
+<programme start="20250928000000 +0000" stop="20280928010000 +0000" channel="no-epg">
+<title>Series</title>
+<sub-title>Episodes</sub-title>
+<desc>24/7</desc>
 </programme>		
-<channel id="2">
-		<display-name>Two and a Half Men</display-name>
-</channel>
-<programme start="20250925000000 +0800" stop="20280925010000 +0800" channel="2">
-		<title>2-1/2 Men (24/7)</title>
-		<sub-title>Episodes<sub-title>
-		<desc>24/7<desc>
-</programme>
