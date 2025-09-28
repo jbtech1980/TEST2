@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<channel id="1"><display-name>S24_7</display-name></channel>
-<channel id="2"><display-name>T24_7</display-name></channel>
-<programme start="20250925000000 +0800" stop="20280925010000 +0800" channel="1"><title>24</title><desc>S24</desc></programme>
-<programme start="20250925000000 +0800" stop="20280925010000 +0800" channel="2"><title>24</title><desc>T24</desc></programme>
+<channel id="no-epg">
+<display-name>no-epg</display-name>
+</channel>
+<programme start="20250601000000 +0800" stop="20280601010000 +0800" channel="no-epg">
+<title>episodes</title><desc>24_7</desc>
+</programme>
