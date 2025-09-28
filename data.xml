@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <channel id="1">
-	<display-name>Seinfeld 24_7</display-name>
+	<display-name>S24_7</display-name>
 	<channel id="2">
-		<display-name>Two and a Half Men 24_7</display-name>
+		<display-name>T24_7</display-name>
 	</channel>
 	<programme start="20250925000000 +0800" stop="20280925010000 +0800" channel="1"></programme>
-	<title>Seinfeld 24_7</title>
+	<title>S24_7</title>
 	<programme start="20250925000000 +0800" stop="20280925010000 +0800" channel="2"></programme>
-	<title>Two and a Half Men 24_7</title>
-</channel>	
+	<title>T24_7</title>
+</channel>
