@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<channel id="BLANK1"><display-name>Seinfeld</display-name></channel>
+<programme start="20250925000000 +0000" stop="20280925010000 +0000" channel="BLANK1"><title>Seinfeld</title></programme>
+<channel id="BLANK2"><display-name>Two and a Half Men</display-name></channel>
+<programme start="20250925000000 +0000" stop="20280925010000 +0000" channel="BLANK2"><title>Two and a Half Men</title></programme>
+
+</tv>
