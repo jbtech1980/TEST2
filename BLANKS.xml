@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<channel id="BLANKS">
-	<display-name>24/7-Episodes</display-name>
-	<display-name>All Seasons</display-name>
-	<title>Episodes</title>
-</channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator">
+<channel id="BLANKS"><display-name>BLANKS</display-name></channel>
+<programme start="20250929040000 +0000" stop="20250930040000 +0000" channel="BLANKS"><title>To Be Announced</title></programme>
+<programme start="20250930040000 +0000" stop="20251001040000 +0000" channel="BLANKS"><title>To Be Announced</title></programme>
+<programme start="20251001040000 +0000" stop="20251002040000 +0000" channel="BLANKS"><title>To Be Announced</title></programme>
+</tv>
+
 
 
 
