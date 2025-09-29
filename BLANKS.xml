@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channel id="BLANKS">
 	<display-name>24/7-Episodes</display-name>
+	<display-name>All Seasons</display-name>
 </channel>
+<programme start="20250925000000 +0000" stop="20280930010000 +0000" channel="BLANKS">
+	<title>Episodes</title>
+	<desc>24/7</desc>
+</programme>
