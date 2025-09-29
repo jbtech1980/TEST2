@@ -3,7 +3,8 @@
 	<display-name>24/7-Episodes</display-name>
 	<display-name>All Seasons</display-name>
 </channel>
-<programme start="20250925000000 +0000" stop="20280930010000 +0000" channel="BLANKS">
+<programme start="20250925000000 +0000" stop="20280930010000 +0000" channel="BLANKS"></programme>
 	<title>Episodes</title>
 	<desc>24/7</desc>
 </programme>
+
