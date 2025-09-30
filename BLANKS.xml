@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<channel id=""><display-name>series</display-name></channel>
-<programme start="20250929040000 +0000" stop="20250930040000 +0000" channel=""><title>episodes</title></programme>
-<programme start="20250930040000 +0000" stop="20251001040000 +0000" channel=""><title>episodes</title></programme>
-<programme start="20251001040000 +0000" stop="20251002040000 +0000" channel=""><title>episodes</title></programme>
+<channel id="">
+	<display-name>series</display-name>
+</channel>
+<programme start="20250929040000 +0000" stop="20250930040000 +0000" channel="">
+	<title>episodes</title>
+</programme>
+<programme start="20250930040000 +0000" stop="20251001040000 +0000" channel="">
+	<title>episodes</title>
+</programme>
+<programme start="20251001040000 +0000" stop="20251002040000 +0000" channel="">
+	<title>episodes</title>
+</programme>
+
 
 
 
