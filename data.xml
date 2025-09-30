@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <channel id="no-epg">
-<display-name>no-epg</display-name>
+  <display-name>no-epg</display-name>
+  <title>episodes</title>
+  <desc>24_7</desc>
 </channel>
-<programme start="20250601000000 +0800" stop="20280601010000 +0800" channel="no-epg">
-<title>episodes</title><desc>24_7</desc>
-</programme>
