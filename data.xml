@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channel id="no-epg">
-  <display-name>no-epg</display-name>
-  <title>episodes</title>
-  <desc>24_7</desc>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<channel id="">
+  <display-name>series</display-name>
+  <title>24/7</title>
+  <desc>episodes</desc>
 </channel>
