@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tv date="1/1/2021 12:00:00 PM">
-
-<channel id="test">
-<display-name>test</display-name>
-</channel>
-
-<programme channel="test" start="20251002000000 +0000" stop="20251003000000 +0000">
-<title>TEST</title>
-<desc>season01</desc>
-<sub-title>episode02</sub-title>
-</programme>
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="TV Japan HD.ca"><display-name>TV Japan HD.ca</display-name></channel>
+<programme start="20251001220000 +0000" stop="20251002010000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002010000 +0000" stop="20251002040000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002040000 +0000" stop="20251002070000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002070000 +0000" stop="20251002100000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002100000 +0000" stop="20251002130000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002130000 +0000" stop="20251002160000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002160000 +0000" stop="20251002190000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002190000 +0000" stop="20251002220000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251002220000 +0000" stop="20251003010000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003010000 +0000" stop="20251003040000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003040000 +0000" stop="20251003070000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003070000 +0000" stop="20251003100000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003100000 +0000" stop="20251003130000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003130000 +0000" stop="20251003160000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003160000 +0000" stop="20251003190000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003190000 +0000" stop="20251003220000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251003220000 +0000" stop="20251004010000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251004010000 +0000" stop="20251004040000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251004040000 +0000" stop="20251004070000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
+<programme start="20251004070000 +0000" stop="20251004100000 +0000" channel="TV Japan HD.ca"><title>Movie</title><desc>Tamil Feature Film.</desc></programme>
 </tv>
-
