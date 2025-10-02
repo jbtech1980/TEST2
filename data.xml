@@ -1,7 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
-<channel id="">
-  <display-name>series</display-name>
-  <title>24/7</title>
-  <desc>episodes</desc>
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="1/1/2021 12:00:00 PM">
+
+<channel id="test">
+<display-name>test</display-name>
 </channel>
+
+<programme channel="test" start="20250101000000 +0000" stop="20251231235900 +0000">
+<title>TEST</title>
+<desc>season01</desc>
+<sub-title>episode02</sub-title>
+</programme>
+
+</tv>
+
