@@ -5,7 +5,7 @@
 <display-name>test</display-name>
 </channel>
 
-<programme channel="test" start="20250101000000 +0000" stop="20251231235900 +0000">
+<programme channel="test" start="20251002000000 +0000" stop="20251002125900 +0000">
 <title>TEST</title>
 <desc>season01</desc>
 <sub-title>episode02</sub-title>
