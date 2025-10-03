@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by jbtech1980) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/jbtech1980/TEST2.git">
 <channel id="TV Japan HD.ca"><display-name>TV Japan HD.ca</display-name></channel>
 <programme start="20251001220000 +0000" stop="20251002010000 +0000" channel="TV Japan HD.ca"><title>Seasons</title><desc>Episodes.</desc></programme>
 <programme start="20251002010000 +0000" stop="20251002040000 +0000" channel="TV Japan HD.ca"><title>Seasons</title><desc>Episodes.</desc></programme>
