@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by jbtech1980) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/jbtech1980/TEST2.git">
-<channel id="blank.ca"><display-name>BLANK EPG</display-name></channel>
-<programme start="20251002040000 +0000" stop="20251202040000 +0000" channel="blank.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
-<programme start="20251202040000 +0000" stop="20260602040000 +0000" channel="blank.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<channel id="TV Japan HD.ca"><display-name>BLANK EPG</display-name></channel>
+<programme start="20251002040000 +0000" stop="20251202040000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
 </tv>
+
 
 
 
