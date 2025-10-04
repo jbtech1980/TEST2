@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by jbtech1980) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/jbtech1980/TEST2.git">
 <channel id="TV Japan HD.ca"><display-name>TV Japan HD</display-name></channel>
-<programme start="20251004060000 +0000" stop="20251204220000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<programme start="20251004080000 +0000" stop="20251004100000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<programme start="20251004100000 +0000" stop="20251204110000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<programme start="20251004110000 +0000" stop="20251204120000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<programme start="20251004120000 +0000" stop="20251204130000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<programme start="20251004130000 +0000" stop="20251204140000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<programme start="20251004140000 +0000" stop="20251204150000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
+<programme start="20251004150000 +0000" stop="20251204160000 +0000" channel="TV Japan HD.ca"><title>Unassigned</title><desc>Episodes.</desc></programme>
 </tv>
+
 
 
 
